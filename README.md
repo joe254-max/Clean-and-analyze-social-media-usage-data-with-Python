@@ -30,10 +30,7 @@ Seaborn
 
 How to Run
 
-Clone the repository:
-
-git clone https://github.com/yourusername/social-media-analysis.git
-
+ https://www.coursera.org/learn/analyze-social-media-python/ungradedLab/Zow3N/option-a-using-courseras-jupyter-notebook/lab?path=%2Fnotebooks%2FSocialMediaDataAnalysis.ipynb
 
 Open SocialMediaDataAnalysis.ipynb in Jupyter Notebook.
 
